@@ -39920,3 +39920,3213 @@ Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:17:21 +02
 
 
 Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:17:21 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 14:35:06 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.5ms)
+Completed 200 OK in 82ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:35:06 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 14:35:37 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.6ms)
+Completed 200 OK in 43ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:35:37 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 14:36:36 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.3ms)
+Completed 200 OK in 51ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:36:36 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 14:38:11 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.4ms)
+Completed 200 OK in 43ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:38:11 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 14:55:28 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.3ms)
+Completed 200 OK in 104ms (Views: 103.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:55:28 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 14:55:57 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.6ms)
+Completed 200 OK in 50ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:55:57 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 14:59:36 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.7ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 14:59:36 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 14:59:37 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 15:03:16 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.7ms)
+Completed 200 OK in 50ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 15:03:16 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 15:03:17 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 15:03:17 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 15:03:17 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 15:03:38 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.3ms)
+Completed 200 OK in 55ms (Views: 54.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 15:03:38 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 15:12:19 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.0ms)
+Completed 200 OK in 1016ms (Views: 1015.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-010674d4a6b6695816694f9f5c51a2891a85ff7c2c3f77533deeeb109c3259a7.css?body=1" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 15:12:20 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff?v=4.0.3" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 15:12:21 +0200
+
+
+Started GET "/" for ::1 at 2017-03-30 15:14:34 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 1312ms (Views: 1311.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-050f38f09b6b15cf89cf1985e20914b49bf27e98506a4fc8bdb60c2acc0f2cfc.css?body=1" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-03-30 15:14:35 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:03:36 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (3.0ms)
+Completed 200 OK in 2114ms (Views: 2088.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-03 12:03:40 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 49ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-050f38f09b6b15cf89cf1985e20914b49bf27e98506a4fc8bdb60c2acc0f2cfc.css?body=1" for ::1 at 2017-04-03 12:03:40 +0200
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:03:40 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:03:40 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:03:40 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:03:41 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:06:05 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.6ms)
+Completed 200 OK in 47ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:06:05 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:06:49 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.5ms)
+Completed 200 OK in 52ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:06:50 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:08:20 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 1599ms (Views: 1598.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-152e258ff871aa685cfcb127e8f013804a807b6d1b3fb96e5597b18d7e07b6c7.css?body=1" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:08:22 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:08:54 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.7ms)
+Completed 200 OK in 48ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:08:54 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:09:53 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.6ms)
+Completed 200 OK in 1173ms (Views: 1172.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-620a47ccec24e69f90c3f63b3a3c7ac9c8def155da236afc5adf3484c523c75d.css?body=1" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:09:54 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:24:30 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.6ms)
+Completed 200 OK in 1191ms (Views: 1190.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-dc4e774837830e19523ff497946ecef4e1cf5a86eb2d599eaf280b41808fb775.css?body=1" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:24:31 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:25:28 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (2.0ms)
+Completed 200 OK in 48ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:25:28 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:25:29 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:26:45 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.3ms)
+Completed 200 OK in 50ms (Views: 48.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:26:45 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:26:46 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:28:32 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.0ms)
+Completed 200 OK in 42ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:28:32 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:28:33 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:28:35 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.0ms)
+Completed 200 OK in 47ms (Views: 46.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:28:35 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:28:45 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 43.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:28:45 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:28:46 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:39:51 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 44ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:39:51 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:39:51 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:39:51 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:39:51 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:39:51 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:39:52 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:42:35 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 54ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:42:35 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 12:57:37 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 230ms (Views: 229.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 12:57:37 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 12:57:37 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 12:57:37 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 12:57:38 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 13:01:04 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 253ms (Views: 252.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 13:01:05 +0200
+
+
+Started GET "/assets/prettyPhoto/default/sprite.png" for ::1 at 2017-04-03 13:05:55 +0200
+
+
+Started GET "/assets/prettyPhoto/default/loader.gif" for ::1 at 2017-04-03 13:05:55 +0200
+
+
+Started GET "/assets/prettyPhoto/default/sprite_y.png" for ::1 at 2017-04-03 13:05:55 +0200
+
+
+Started GET "/assets/prettyPhoto/default/sprite_x.png" for ::1 at 2017-04-03 13:05:55 +0200
+
+
+Started GET "/assets/portfolio/full/item6.png" for ::1 at 2017-04-03 13:05:55 +0200
+
+
+Started GET "/assets/prettyPhoto/light_rounded/btnNext.png" for ::1 at 2017-04-03 13:05:56 +0200
+
+
+Started GET "/assets/portfolio/full/item2.png" for ::1 at 2017-04-03 13:06:01 +0200
+
+
+Started GET "/assets/portfolio/full/item1.png" for ::1 at 2017-04-03 13:06:10 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 13:08:59 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (2.4ms)
+Completed 200 OK in 1792ms (Views: 1791.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-80737eacf52b133737f3897814b4136122651329a326fb061325190d03977581.css?body=1" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 13:09:01 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 13:09:02 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 13:09:15 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (1.8ms)
+Completed 200 OK in 63ms (Views: 62.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 13:09:15 +0200
+
+
+Started GET "/" for ::1 at 2017-04-03 13:11:42 +0200
+Processing by MainController#index as HTML
+  Rendered main/index.html within layouts/application (0.1ms)
+Completed 200 OK in 238ms (Views: 237.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/slider/food1.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item1.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item2.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item3.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item4.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item5.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item6.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item7.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/portfolio/recent/item8.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2017-04-03 13:11:42 +0200
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/accordion1.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/tab2.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/tab1.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/testimonials1.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/partners/partner1.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/partners/partner2.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/slider/chef.jpg" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2017-04-03 13:11:43 +0200
+
+
+Started GET "/assets/contact.png" for ::1 at 2017-04-03 13:11:43 +0200
