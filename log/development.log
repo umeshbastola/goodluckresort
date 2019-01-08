@@ -49007,3 +49007,185 @@ Started GET "/assets/services/bg_services.png" for ::1 at 2019-01-08 14:49:23 +0
 
 
 Started GET "/assets/partners/partner_bg.png" for ::1 at 2019-01-08 14:49:23 +0100
+
+
+Started GET "/" for ::1 at 2019-01-08 14:57:00 +0100
+Processing by MainController#index as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered main/index.html within layouts/application (1.4ms)
+Completed 200 OK in 86ms (Views: 84.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/slider/img1.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item11.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item15.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item12.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item14.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item13.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item16.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item18.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/portfolio/recent/item17.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/slider/bg1.jpg" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/partners/gov.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/partners/llci.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2019-01-08 14:57:00 +0100
+
+
+Started GET "/" for ::1 at 2019-01-08 14:59:21 +0100
+Processing by MainController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered main/index.html within layouts/application (1.5ms)
+Completed 200 OK in 55ms (Views: 53.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/slider/img1.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/slider/img2.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/slider/img3.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item12.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item11.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item14.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item13.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item15.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item16.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item18.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/portfolio/recent/item17.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/slider/bg1.jpg" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/slider/bg2.jpg" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/slider/bg3.jpg" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/services/services1.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/services/services2.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/services/services3.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/services/services4.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/services/services5.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/services/services6.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/partners/partner3.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/partners/gov.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/partners/llci.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/partners/partner4.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/partners/partner5.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/services/bg_services.png" for ::1 at 2019-01-08 14:59:21 +0100
+
+
+Started GET "/assets/partners/partner_bg.png" for ::1 at 2019-01-08 14:59:21 +0100
